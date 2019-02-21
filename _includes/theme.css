@@ -438,8 +438,9 @@ span.icon {
 #MaebeanAdjust{
 	width: 65%;
 }
-.sponsors-block #conductixAdjust{
-	width:80%
+#WernerAdjust{
+	width: 70%;
+	margin: 0 auto;
 }
 .sponsors-block-cta {
 	font-size: 2em;
