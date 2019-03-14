@@ -438,10 +438,16 @@ span.icon {
 #MaebeanAdjust{
 	width: 65%;
 }
-
 #WernerAdjust{
 	width: 70%;
 	margin: 0 auto;
+}
+#VerizonAdjust{
+	max-width: 270px;
+}
+#MysteryAdjust{
+	width: 72%;
+	height: 110%;
 }
 .sponsors-block-cta {
 	font-size: 2em;

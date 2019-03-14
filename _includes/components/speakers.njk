@@ -1,6 +1,6 @@
 <div class="speakers">
 {% for speaker in speakers %}
-	{% set speakerPageUrl %}/speakers/{{ speaker.twitter }}/{% endset %}
+ 	{% set speakerPageUrl %}/speakers/{{ speaker.twitter }}/{% endset %}
 	<a href="{{ speakerPageUrl | url }}" class="speaker">
 		<img src="{{ speaker.avatar_url }}" alt="{{ speaker.name }}" class="speaker-img">
 		<h2 class="speaker-name">{{ speaker.name }}</h2>
