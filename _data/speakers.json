@@ -82,6 +82,16 @@
 	"talk": "“On a scale from 1 to 10, what is your favorite coffee?” Wait, what? Bad questions generate useless answers, yet more energy is spent on visual design than survey design. Stop wasting your time and learn how to ask questions that tell you what you want to know, not what you want to hear.",
 	"time": false
 },{
+	"name":"Rachel Fox",
+	"emcee": true,
+	"company_role":"Instructor at Interface: The Web School | Owner at Catapult Consulting Solutions | Founder at You Go Girl | Registered UNICORN",
+	"avatar_url": "/assets/img/speakers/rachel_fox.jpg",
+	"twitter":"rachelFox",
+	"twitter_real":false,
+	"website":"http://racheldfox.com/",
+	"bio": "Rachel D Fox is a passionate entrepreneur, business consultant, advocate for positive change, and mother of 10 beautiful children with an unwavering entrepreneurial spirit. She is the proud owner of Catapult Consulting Solutions and Founder of the female empowerment organization, You Go Girl. Infinitely driven to help others, her vision is to provide empowering tools that arm people with the confidence they need to make their every dream into an attainable reality. Throughout the span of almost two decades, Rachel has gained the hands-on experience necessary to ensure her clients achieve an all-encompassing success that lasts. From sales, marketing, training, and project management, to web-development, professional and personal development. Her knowledge base is vast, but one area is her number one specialty: creating positive change in people’s lives.",
+	"time":false
+},{
 	"name": "Grishma Jena",
 	"keynote": false,
 	"company_role": "Cognitive Software Engineer, IBM Watson",
