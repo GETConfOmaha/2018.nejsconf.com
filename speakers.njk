@@ -13,7 +13,7 @@ hideSponsorCTA: true
 		<div class="speakerpage">
 			<img src="{{ speaker.avatar_url }}" alt="{{ speaker.name }}" class="speakerpage-avatar">
 			<h1>{{ speaker.title }}</h1>
-			<h2>{{ speaker.name }}{% if speaker.keynote %}, Keynote{% endif %}</h2>
+			<h2>{{ speaker.name }}{% if speaker.keynote %}, Keynote{% endif %}{% if speaker.emcee %}, Emcee{% endif %}</h2>
 
 			<dl>
 	{% if speaker.twitter_real%}
