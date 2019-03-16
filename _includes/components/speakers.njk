@@ -5,7 +5,7 @@
 		<img src="{{ speaker.avatar_url }}" alt="{{ speaker.name }}" class="speaker-img">
 		<h2 class="speaker-name">{{ speaker.name }}</h2>
 		<p>{{speaker.company_role}}</p>
-		<p class="speaker-talk">{% if speaker.keynote %}<span class="speaker-talk-keynote">Keynote</span> {% endif %}{{ speaker.title }}</p>
+		<p class="speaker-talk">{% if speaker.keynote %}<span class="speaker-talk-keynote">Keynote</span> {% endif %}{% if speaker.emcee %}<span class="speaker-talk-keynote">Emcee</span> {% endif %}{{ speaker.title }}</p>
 	</a>
 {% endfor %}
 </div>
