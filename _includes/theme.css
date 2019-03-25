@@ -790,7 +790,7 @@ a[href].speaker.speaker:hover:after {
 		background-size: 36% auto;
 	}
 	.schedule-b {
-		background-image: url({{ "/assets/img/side_CEAT.jpg" | url }});
+		background-image: url({{ "/assets/img/small_ceat.jpg" | url }});
 		padding-left: 59%;
 		background-position: 2% 50%;
 		background-size: 51% auto;
