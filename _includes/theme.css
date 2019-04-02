@@ -434,9 +434,11 @@ span.icon {
 }
 #HudlAdjust, #conductixAdjust, #LightAdjust, #builderAdjust {
 	width: 80% ;
+	margin: 0 auto;
 }
 #MaebeanAdjust{
 	width: 65%;
+	margin: 0 auto;
 }
 #WernerAdjust{
 	width: 70%;
@@ -444,10 +446,20 @@ span.icon {
 }
 #VerizonAdjust{
 	max-width: 270px;
+	margin: 0 auto;
 }
 #MysteryAdjust{
 	width: 72%;
 	height: 110%;
+	margin: 0 auto;
+}
+#ymcaAdjust{
+	width: 50%;
+	margin: 0 auto;
+}
+#firespringAdjust{
+	width: 90%;
+	margin: 0 auto;
 }
 .sponsors-block-cta {
 	font-size: 2em;
