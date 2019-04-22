@@ -19,7 +19,7 @@
 	"title": "Be Bold, Be Real and Lead with Love",
 	"avatar_url": "/assets/img/speakers/sally_elatta.png",
 	"social_avatar_url": "/assets/img/speakers/filler-social.jpg",
-	"website": "https://agiletransformation.com",
+	"website": "https://agilityhealthradar.com/",
 	"twitter": "sallyElatta",
 	"twitter_real": "sallyElatta",
 	"bio": "Sally Elatta is the president of Agile Transformation Inc, founder of AgilityHealth and <a href='https://www.agilevideos.com' target='_blank'>AgileVideos.com</a>. She is a successful entrepreneur and thought leader in the space of Enterprise Business Agility and Measurement. Sally is a dynamic and engaging speaker who advises top executives of the leading global enterprises through their Enterprise Business Agility (EBA) transformations.",
@@ -92,6 +92,19 @@
 	"bio": "Rachel D Fox is a passionate entrepreneur, business consultant, advocate for positive change, and mother of 10 beautiful children with an unwavering entrepreneurial spirit. She is the proud owner of Catapult Consulting Solutions and Founder of the female empowerment organization, You Go Girl. Infinitely driven to help others, her vision is to provide empowering tools that arm people with the confidence they need to make their every dream into an attainable reality. Throughout the span of almost two decades, Rachel has gained the hands-on experience necessary to ensure her clients achieve an all-encompassing success that lasts. From sales, marketing, training, and project management, to web-development, professional and personal development. Her knowledge base is vast, but one area is her number one specialty: creating positive change in people’s lives.",
 	"time":false
 },{
+	"name": "Tiffany Gamble",
+	"keynote": false,
+	"company_role": "CEO, Emerging Ladies Academy",
+	"title": "Panel: Strengthening the STEM Pipeline",
+	"avatar_url": "/assets/img/speakers/tiffany_gamble.png",
+	"social_avatar_url": "/assets/img/speakers/filler-social.jpg",
+	"twitter": "elaomaha",
+	"twitter_real": false,
+	"website": "https://www.facebook.com/elaomaha",
+	"bio": "Tiffany Gamble has been an avid community advocate for over 20+ years working within various nonprofit social services organizations in the urban communities within Omaha and the Council Bluffs region. Witnessing positive transformation strides within individuals and communities has been the best rewards while working in Human Service arena. While studying the how fast social systems are changing due to technology and understanding the emerging tech landscape of Omaha, Emerging Ladies Academy was born. Exposing emerging tech to girls of color in urban communities can change their trajectory for success. ELA’S mission it to develop a diverse Tech talent pipeline through Emerging STEAM platforms to young ladies in middle/high school.",
+	"talk": "Engaging young women and gender-expansive students in STEM subjects opens their eyes to new career pathways they might not have considered before, including an array of jobs with a promising future. This panel discussion features four organizations working to fill the STEM pipeline, how they are addressing the problem at hand, and what you can do to get involved.",
+	"time": false
+}{
 	"name": "Grishma Jena",
 	"keynote": false,
 	"company_role": "Cognitive Software Engineer, IBM Watson",
@@ -229,19 +242,5 @@
 	"website": "http://www.mochimachine.com/",
 	"bio": "Jennifer Wong is a self-taught software engineer. She spends her days making the web a prettier and more user-friendly place. She has written for Net Magazine and had projects covered by Mashable, Engadget, Gizmodo, and more. Jenn is an avid conference speaker and loves eating, coding, and sleeping.",
 	"talk": "How do you make a design system empathetic and whom should it be empathetic towards? How can empathy help shape an ever-changing, morphing design system? Come learn how to build an empathetic design system from the ground up or start incorporating empathy today!",
-	"time": false
-},{
-	"name": "Lee Zuvanich",
-	"keynote": false,
-	"company_role": "Principal Business Analyst, illumisoft",
-	"title": "Panel: Strengthening the STEM Pipeline",
-	"avatar_url": "/assets/img/speakers/lee_zuvanich.png",
-	"social_avatar_url": "/assets/img/speakers/filler-social.jpg",
-	"twitter": "enbylee",
-	"twitter_real": "enbylee",
-	"linked_in": "leezuvanich/",
-	"website": false,
-	"bio": "Lee Zuvanich is a serial entrepreneur with a background in web coding + design, tech support, and team management. They are the principal business analyst at an enterprise-level software development agency. Lee is also is the director of Coding & Cupcakes, a nonprofit that teaches girls to code. Lee’s favorite thing to do is disconnect in the woods with their dog and kids.",
-	"talk": "Engaging young women and gender-expansive students in STEM subjects opens their eyes to new career pathways they might not have considered before, including an array of jobs with a promising future. This panel discussion features four organizations working to fill the STEM pipeline, how they are addressing the problem at hand, and what you can do to get involved.",
 	"time": false
 }]
