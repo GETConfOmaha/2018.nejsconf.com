@@ -284,6 +284,18 @@ span.icon {
 		min-height: 3em; /* 72px /24 */
 	}
 }
+/* mailing list */
+@media (min-width: 37.5em) {
+	.mailing-list {
+		padding-left: 6.25em; /* 150px /24 */
+	}
+}
+
+.mailing-list {
+	margin: 0 auto;
+	max-width: 42rem;
+	margin-bottom: 2rem;
+}
 
 /* colored and Highlight Text */
 .info-highlight {
