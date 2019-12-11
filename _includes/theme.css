@@ -284,6 +284,12 @@ span.icon {
 		min-height: 3em; /* 72px /24 */
 	}
 }
+/* mailing list */
+.mailing-list {
+	margin: 0 auto;
+	max-width: 42rem;
+	margin-bottom: 2rem;
+}
 
 /* colored and Highlight Text */
 .info-highlight {
