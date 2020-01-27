@@ -297,6 +297,41 @@ span.icon {
 	margin-bottom: 2rem;
 }
 
+.pledge p {
+	font-size: 1.5rem;
+}
+
+.pledge.sg-component {
+	display: flex;
+}
+
+.pledge .pledge-quote {
+	flex-basis: 65%;
+}
+
+.pledge .pledge-img {
+	flex-basis: 25%;
+}
+
+.pledge-img img {
+	width: 100%;
+}
+@media (max-width: 37.5em) {
+	.pledge.sg-component {
+		flex-wrap: wrap;
+	}
+
+	.pledge .pledge-quote {
+		flex-basis: 100%;
+	}
+
+	.pledge .pledge-img {
+		flex-basis: 100%;
+	}
+
+}
+
+
 /* colored and Highlight Text */
 .info-highlight {
 	display: inline-block;
