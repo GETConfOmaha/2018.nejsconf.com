@@ -1,6 +1,7 @@
 ---
-showregisterbutton: true
+showregisterbutton: false
 showfooter: true
+showbooklet: true
 ---
 <!doctype html>
 <html lang="en">
@@ -19,8 +20,8 @@ showfooter: true
 		<script>{{ js | jsmin | safe }}</script>
 		<meta property="og:title" content="GETconf 2019{% if title %}—{{ title }}{% endif %}" />
 
-		<meta name="description" content="{% if speaker.name %}{{ speaker.name }} is speaking at GET CONF! {% endif %}GET CONF is a one-day conference to amplify + celebrate the voices of women & gender expansive individuals in tech.">
-		<meta name="twitter:description" property="og:description" content="{% if speaker.name %}{{ speaker.name }} is speaking at GET CONF! {% endif %}GET CONF is a one-day conference to amplify + celebrate the voices of women & gender expansive individuals in tech.">
+		<meta name="description" content="{% if speaker.name %}{{ speaker.name }} is speaking at GET CONF! {% endif %}GET CONF is a series of events to amplify + celebrate the voices of women & gender expansive individuals in tech.">
+		<meta name="twitter:description" property="og:description" content="{% if speaker.name %}{{ speaker.name }} is speaking at GET CONF! {% endif %}GET CONF is a series of events to amplify + celebrate the voices of women & gender expansive individuals in tech.">
 
 		<meta name="twitter:url" property="og:url" content="https://2019.getconf.com{{ page.url }}">
 		<meta name="twitter:image" property="og:image" content="https://2019.getconf.com{% if speaker.social_avatar_url %}{{ speaker.social_avatar_url }}{% else %}/assets/img/opengraph.png{% endif %}">
